@@ -22,3 +22,9 @@ If you do not want to use it, be sure to to adapt the code to use the meterprete
 2 - change the params array with the ip and port of the listenner's machine
 
 3 - Build the jar to distribute it to the victim. (just type "ant" in the terminal in the project directory) or you can copy this code and put it in any application (just be sure to add the needed libraries too)
+
+
+
+You can read more on AV Evasion on this really good article:
+
+http://privacy-pc.com/articles/av-evasion-lessons-learned.html
